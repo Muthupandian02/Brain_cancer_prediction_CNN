@@ -5,6 +5,7 @@ Overview:
 
 Dataset:
     The dataset contains MRI images grouped into four categories:
+    
         Glioma
         Meningioma
         Pituitary
